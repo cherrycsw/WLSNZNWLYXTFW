@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/menu3.jpg</file>
+        <file>img/manager.png</file>
+        <file>img/search.png</file>
+        <file>img/search3.png</file>
+        <file>img/quit.png</file>
+        <file>img/quit2.png</file>
+        <file>img/3point.png</file>
+        <file>img/background5.jpg</file>
+        <file>img/run.png</file>
+        <file>img/info.png</file>
+        <file>img/background5(1).jpg</file>
+        <file>img/statusFalse.png</file>
+        <file>img/statusTrue.png</file>
+        <file>img/info2.png</file>
+    </qresource>
+</RCC>
